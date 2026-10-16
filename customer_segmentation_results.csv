@@ -1,0 +1,11 @@
+CustomerID,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,Segment,Marketing_Recommendation
+101,11,2,1300,2,2,2,Loyal Customers,"Offer loyalty points, rewards, and exclusive discounts."
+102,26,2,750,2,2,2,Loyal Customers,"Offer loyalty points, rewards, and exclusive discounts."
+103,42,2,1900,1,2,3,At Risk,Send re-engagement emails and special discounts.
+104,6,1,250,3,1,1,New Customers,Provide a welcome offer to encourage another purchase.
+105,30,2,2100,2,2,3,Loyal Customers,"Offer loyalty points, rewards, and exclusive discounts."
+106,13,1,400,2,1,1,Regular Customers,Recommend relevant products and offer bundle deals.
+107,19,2,1250,2,2,2,Loyal Customers,"Offer loyalty points, rewards, and exclusive discounts."
+108,3,1,200,3,1,1,New Customers,Provide a welcome offer to encourage another purchase.
+109,73,1,1000,1,1,2,At Risk,Send re-engagement emails and special discounts.
+110,9,1,550,3,1,1,New Customers,Provide a welcome offer to encourage another purchase.
